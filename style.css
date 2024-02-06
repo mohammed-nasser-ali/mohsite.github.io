@@ -1,0 +1,28 @@
+#container{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+.form-div{
+    margin-top: 15px;
+    width: 100%;
+}
+
+input{
+    width: 100%;
+    margin-top: 5px;
+    height: 25px;
+}
+
+.btn-login{
+    width: 100%;
+    margin-top: 5px;
+    height: 25px;
+    
+
+}
+
+.div-btn-login{
+    margin: 0 25%;
+}
